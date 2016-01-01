@@ -1,3 +1,9 @@
+## EVE ID/Name Lookup
+
+Returns EVE-Online item IDs/names
+
+## Usage
+
 #### idByName
 
 ```javascript
