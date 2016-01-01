@@ -1,5 +1,5 @@
-var nameById = require(__dirname + 'nameById.json')
-var idByName = require(__dirname + 'idByName.json')
+var nameById = require(__dirname + '/data/nameById.json')
+var idByName = require(__dirname + '/data/idByName.json')
 
 module.exports = {
   nameById: function (id) {
